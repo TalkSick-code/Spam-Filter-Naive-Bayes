@@ -9,6 +9,6 @@ Spam Filter Classifier which detects whether the message/email is spam or not. I
 - Numpy
 
 ## Accuracy Score
-   <b>0.9804241435562806</b> <br>
-   <b> 98.04% </b>
+-   <b>0.9804241435562806</b> <br>
+-   <b> 98.04% </b>
 
